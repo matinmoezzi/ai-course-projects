@@ -1,0 +1,3 @@
+/home/rio/Documents/8-puzzle_A star/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rio/Documents/8-puzzle_A star/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rio/Documents/8-puzzle_A star/cmake-build-debug/CMakeFiles/8_puzzle_A_star.dir

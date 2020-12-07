@@ -1,0 +1,4 @@
+/home/rio/Downloads/JetBrains.CLion.2020.1.1.Linux/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" "/home/rio/Documents/8-puzzle_A star"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rio/Documents/8-puzzle_A star/cmake-build-debug

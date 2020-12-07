@@ -1,0 +1,57 @@
+Initial state:
+4 1 8 
+3 2 0 
+7 6 5 
+elapsed time: 0.007219 (seconds)
+Initial state:
+4 1 3 
+2 6 0 
+8 7 5 
+elapsed time: 0.200896 (seconds)
+Initial state:
+2 5 4 
+8 7 3 
+1 0 6 
+elapsed time: 0.004478 (seconds)
+Initial state:
+1 5 2 
+7 6 4 
+8 3 0 
+elapsed time: 0.000514 (seconds)
+Initial state:
+1 6 5 
+4 8 0 
+7 2 3 
+elapsed time: 0.019966 (seconds)
+Initial state:
+1 2 7 
+0 6 8 
+3 4 5 
+elapsed time: 3.24508 (seconds)
+Initial state:
+1 8 3 
+4 2 0 
+7 5 6 
+elapsed time: 0.014778 (seconds)
+Initial state:
+2 3 0 
+1 7 5 
+8 4 6 
+elapsed time: 0.00013 (seconds)
+Initial state:
+1 0 3 
+7 2 5 
+8 4 6 
+elapsed time: 9e-05 (seconds)
+Initial state:
+6 7 0 
+2 3 1 
+4 5 8 
+elapsed time: 0.236554 (seconds)
+Initial state:
+0 1 3 
+7 2 5 
+8 4 6 
+elapsed time: 0.000235 (seconds)
+
+Average elapsed time: 0.339085455 seconds
